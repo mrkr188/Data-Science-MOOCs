@@ -1,0 +1,25 @@
+<form>
+	<h2>Add a Food</h2>
+	<input type="text" name="food">
+
+	{% if items %}
+		{% for i in items %}
+			<input type="hidden" name="food" value="{{i}}">
+		{% endfor %}
+	{% endif %}
+
+	<button>Add</button>
+
+	<br>
+	<br>
+
+	<h2>Shopping List</h2>
+
+	{% if items %}
+	<ul>
+		{% for i in items %}
+			<li>{{ i }}</li>
+		{% endfor %}
+	</ul>
+	{% endif %}
+</form>
