@@ -7,9 +7,10 @@ I divide essential skillsets into these following 4 categories and persue course
 **Maths** 
 * Probability and Statistics
 * Linear Algibra
+* Calculus
 
 **Programming Skills**
-* Python, R, SAS programming languages
+* Python, R programming languages
 * Data Structures and Algorithms 
 
 **Systems**
@@ -26,9 +27,9 @@ I divide essential skillsets into these following 4 categories and persue course
 * Data Visualization
   
   
-#MOOCs Description and Certificates
+# MOOCs Description and Certificates
 
-###Data Science Specialization  
+### Data Science Specialization  
 [Specialization Link](https://www.coursera.org/specializations/jhudatascience)  
 
 **The Data Scientist’s Toolbox** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/9DURCYWWWE)  
@@ -73,17 +74,13 @@ I divide essential skillsets into these following 4 categories and persue course
 **Machine Learning** | [Course link](https://www.coursera.org/learn/machine-learning)  
 * A broad introduction to machine learning, datamining, and statistical pattern recognition with emphasis on practical application of techniques. Excersises in MATLAB
   
-##Currently persuing courses 
+## Currently persuing courses 
 **Mining Massive Datasets** | [Course link](https://www.coursera.org/course/mmds)  
 * Covers several topics like MapReduce, Link Analysis, Locality-Sensitive Hashing, Data Stream Mining, Recommender Systems, Dimensionality Reduction, Clustering, Support-Vector Machines, Decision Trees
 * Companion book [Mining Massive Datasets](http://www.mmds.org/)
 * Very challening excersises.
   
-**Paradigms of Computer Programming** | [Course link](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-0)
-* Covers 5 paradigms - *Functional programming, Object-orented programming, Deterministic dataflow programming, Multi-agent dataflow programming, Active objects*
-* Oz research language
-
-##Planning to do
+## Planning to do
 
 **Cloud Computing Applications** | [Course link](https://www.coursera.org/course/cloudapplications)  
 * Basic concepts underlying cloud services 
